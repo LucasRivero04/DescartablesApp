@@ -1,0 +1,108 @@
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Forms\bin\Debug\net9.0-windows\DescartablesApp.Forms.exe
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Forms\bin\Debug\net9.0-windows\DescartablesApp.Forms.deps.json
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Forms\bin\Debug\net9.0-windows\DescartablesApp.Forms.runtimeconfig.json
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Forms\bin\Debug\net9.0-windows\DescartablesApp.Forms.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Forms\bin\Debug\net9.0-windows\DescartablesApp.Forms.pdb
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Forms\bin\Debug\net9.0-windows\Microsoft.AspNetCore.Authentication.Abstractions.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Forms\bin\Debug\net9.0-windows\Microsoft.AspNetCore.Authentication.Core.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Forms\bin\Debug\net9.0-windows\Microsoft.AspNetCore.Authorization.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Forms\bin\Debug\net9.0-windows\Microsoft.AspNetCore.Authorization.Policy.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Forms\bin\Debug\net9.0-windows\Microsoft.AspNetCore.Hosting.Abstractions.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Forms\bin\Debug\net9.0-windows\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Forms\bin\Debug\net9.0-windows\Microsoft.AspNetCore.Http.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Forms\bin\Debug\net9.0-windows\Microsoft.AspNetCore.Http.Abstractions.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Forms\bin\Debug\net9.0-windows\Microsoft.AspNetCore.Http.Extensions.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Forms\bin\Debug\net9.0-windows\Microsoft.AspNetCore.Http.Features.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Forms\bin\Debug\net9.0-windows\Microsoft.AspNetCore.Mvc.Abstractions.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Forms\bin\Debug\net9.0-windows\Microsoft.AspNetCore.Mvc.Core.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Forms\bin\Debug\net9.0-windows\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Forms\bin\Debug\net9.0-windows\Microsoft.AspNetCore.Routing.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Forms\bin\Debug\net9.0-windows\Microsoft.AspNetCore.Routing.Abstractions.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Forms\bin\Debug\net9.0-windows\Microsoft.AspNetCore.WebUtilities.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Forms\bin\Debug\net9.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Forms\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Forms\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Forms\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Forms\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyModel.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Forms\bin\Debug\net9.0-windows\Microsoft.Extensions.Diagnostics.Abstractions.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Forms\bin\Debug\net9.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Forms\bin\Debug\net9.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Forms\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Forms\bin\Debug\net9.0-windows\Microsoft.Extensions.ObjectPool.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Forms\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Forms\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Forms\bin\Debug\net9.0-windows\Microsoft.Net.Http.Headers.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Forms\bin\Debug\net9.0-windows\Newtonsoft.Json.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Forms\bin\Debug\net9.0-windows\DescartablesApp.Shared.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Forms\bin\Debug\net9.0-windows\DescartablesApp.Shared.pdb
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Forms\obj\Debug\net9.0-windows\DescartablesApp.Forms.csproj.AssemblyReference.cache
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Forms\obj\Debug\net9.0-windows\DescartablesApp.Forms.Form1.resources
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Forms\obj\Debug\net9.0-windows\DescartablesApp.Forms.FormDetalleVenta.resources
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Forms\obj\Debug\net9.0-windows\DescartablesApp.Forms.FormProductos.resources
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Forms\obj\Debug\net9.0-windows\DescartablesApp.Forms.FormTicketVenta.resources
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Forms\obj\Debug\net9.0-windows\DescartablesApp.Forms.FormVentas.resources
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Forms\obj\Debug\net9.0-windows\DescartablesApp.Forms.csproj.GenerateResource.cache
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Forms\obj\Debug\net9.0-windows\DescartablesApp.Forms.GeneratedMSBuildEditorConfig.editorconfig
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Forms\obj\Debug\net9.0-windows\DescartablesApp.Forms.AssemblyInfoInputs.cache
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Forms\obj\Debug\net9.0-windows\DescartablesApp.Forms.AssemblyInfo.cs
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Forms\obj\Debug\net9.0-windows\DescartablesApp.Forms.csproj.CoreCompileInputs.cache
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Forms\obj\Debug\net9.0-windows\Descarta.76351B10.Up2Date
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Forms\obj\Debug\net9.0-windows\DescartablesApp.Forms.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Forms\obj\Debug\net9.0-windows\refint\DescartablesApp.Forms.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Forms\obj\Debug\net9.0-windows\DescartablesApp.Forms.pdb
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Forms\obj\Debug\net9.0-windows\DescartablesApp.Forms.genruntimeconfig.cache
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Forms\obj\Debug\net9.0-windows\ref\DescartablesApp.Forms.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Forms\bin\Debug\net9.0-windows\DescartablesApp.Forms.exe
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Forms\bin\Debug\net9.0-windows\DescartablesApp.Forms.deps.json
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Forms\bin\Debug\net9.0-windows\DescartablesApp.Forms.runtimeconfig.json
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Forms\bin\Debug\net9.0-windows\DescartablesApp.Forms.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Forms\bin\Debug\net9.0-windows\DescartablesApp.Forms.pdb
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Forms\bin\Debug\net9.0-windows\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Forms\bin\Debug\net9.0-windows\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Forms\bin\Debug\net9.0-windows\Microsoft.AspNetCore.Authorization.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Forms\bin\Debug\net9.0-windows\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Forms\bin\Debug\net9.0-windows\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Forms\bin\Debug\net9.0-windows\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Forms\bin\Debug\net9.0-windows\Microsoft.AspNetCore.Http.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Forms\bin\Debug\net9.0-windows\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Forms\bin\Debug\net9.0-windows\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Forms\bin\Debug\net9.0-windows\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Forms\bin\Debug\net9.0-windows\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Forms\bin\Debug\net9.0-windows\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Forms\bin\Debug\net9.0-windows\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Forms\bin\Debug\net9.0-windows\Microsoft.AspNetCore.Routing.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Forms\bin\Debug\net9.0-windows\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Forms\bin\Debug\net9.0-windows\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Forms\bin\Debug\net9.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Forms\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Forms\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Forms\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Forms\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Forms\bin\Debug\net9.0-windows\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Forms\bin\Debug\net9.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Forms\bin\Debug\net9.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Forms\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Forms\bin\Debug\net9.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Forms\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Forms\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Forms\bin\Debug\net9.0-windows\Microsoft.Net.Http.Headers.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Forms\bin\Debug\net9.0-windows\Newtonsoft.Json.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Forms\bin\Debug\net9.0-windows\DescartablesApp.Shared.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Forms\bin\Debug\net9.0-windows\DescartablesApp.Shared.pdb
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Forms\obj\Debug\net9.0-windows\DescartablesApp.Forms.csproj.AssemblyReference.cache
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Forms\obj\Debug\net9.0-windows\DescartablesApp.Forms.Form1.resources
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Forms\obj\Debug\net9.0-windows\DescartablesApp.Forms.FormDetalleVenta.resources
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Forms\obj\Debug\net9.0-windows\DescartablesApp.Forms.FormProductos.resources
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Forms\obj\Debug\net9.0-windows\DescartablesApp.Forms.FormTicketVenta.resources
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Forms\obj\Debug\net9.0-windows\DescartablesApp.Forms.FormVentas.resources
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Forms\obj\Debug\net9.0-windows\DescartablesApp.Forms.csproj.GenerateResource.cache
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Forms\obj\Debug\net9.0-windows\DescartablesApp.Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Forms\obj\Debug\net9.0-windows\DescartablesApp.Forms.AssemblyInfoInputs.cache
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Forms\obj\Debug\net9.0-windows\DescartablesApp.Forms.AssemblyInfo.cs
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Forms\obj\Debug\net9.0-windows\DescartablesApp.Forms.csproj.CoreCompileInputs.cache
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Forms\obj\Debug\net9.0-windows\Descarta.76351B10.Up2Date
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Forms\obj\Debug\net9.0-windows\DescartablesApp.Forms.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Forms\obj\Debug\net9.0-windows\refint\DescartablesApp.Forms.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Forms\obj\Debug\net9.0-windows\DescartablesApp.Forms.pdb
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Forms\obj\Debug\net9.0-windows\DescartablesApp.Forms.genruntimeconfig.cache
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Forms\obj\Debug\net9.0-windows\ref\DescartablesApp.Forms.dll

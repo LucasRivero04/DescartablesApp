@@ -1,0 +1,24 @@
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Shared\bin\Debug\net9.0\DescartablesApp.Shared.deps.json
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Shared\bin\Debug\net9.0\DescartablesApp.Shared.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Shared\bin\Debug\net9.0\DescartablesApp.Shared.pdb
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Shared\obj\Debug\net9.0\DescartablesApp.Shared.csproj.AssemblyReference.cache
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Shared\obj\Debug\net9.0\DescartablesApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Shared\obj\Debug\net9.0\DescartablesApp.Shared.AssemblyInfoInputs.cache
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Shared\obj\Debug\net9.0\DescartablesApp.Shared.AssemblyInfo.cs
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Shared\obj\Debug\net9.0\DescartablesApp.Shared.csproj.CoreCompileInputs.cache
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Shared\obj\Debug\net9.0\DescartablesApp.Shared.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Shared\obj\Debug\net9.0\refint\DescartablesApp.Shared.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Shared\obj\Debug\net9.0\DescartablesApp.Shared.pdb
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.Shared\obj\Debug\net9.0\ref\DescartablesApp.Shared.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Shared\bin\Debug\net9.0\DescartablesApp.Shared.deps.json
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Shared\bin\Debug\net9.0\DescartablesApp.Shared.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Shared\bin\Debug\net9.0\DescartablesApp.Shared.pdb
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Shared\obj\Debug\net9.0\DescartablesApp.Shared.csproj.AssemblyReference.cache
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Shared\obj\Debug\net9.0\DescartablesApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Shared\obj\Debug\net9.0\DescartablesApp.Shared.AssemblyInfoInputs.cache
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Shared\obj\Debug\net9.0\DescartablesApp.Shared.AssemblyInfo.cs
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Shared\obj\Debug\net9.0\DescartablesApp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Shared\obj\Debug\net9.0\DescartablesApp.Shared.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Shared\obj\Debug\net9.0\refint\DescartablesApp.Shared.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Shared\obj\Debug\net9.0\DescartablesApp.Shared.pdb
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Shared\obj\Debug\net9.0\ref\DescartablesApp.Shared.dll

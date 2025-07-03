@@ -1,0 +1,21 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "DescartablesApp.API\\DescartablesApp.API.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Path": "DescartablesApp.Forms\\DescartablesApp.Forms.csproj",
+        "Action": "Start",
+        "DebugTarget": "DescartablesApp.Forms"
+      },
+      {
+        "Path": "DescartablesApp.Shared\\DescartablesApp.Shared.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

@@ -1,0 +1,330 @@
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\appsettings.Development.json
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\appsettings.json
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\DescartablesApp.API.staticwebassets.endpoints.json
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\DescartablesApp.API.exe
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\DescartablesApp.API.deps.json
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\DescartablesApp.API.runtimeconfig.json
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\DescartablesApp.API.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\DescartablesApp.API.pdb
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\Azure.Core.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\Azure.Identity.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\Humanizer.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\Mono.TextTemplating.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\System.ClientModel.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\System.CodeDom.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\System.Composition.Convention.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\System.Composition.Hosting.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\System.Composition.Runtime.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\System.Composition.TypedParts.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\System.Drawing.Common.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\System.Memory.Data.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\System.Runtime.Caching.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\System.Security.Permissions.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\System.Windows.Extensions.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\DescartablesApp.Shared.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\bin\Debug\net9.0\DescartablesApp.Shared.pdb
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\obj\Debug\net9.0\DescartablesApp.API.csproj.AssemblyReference.cache
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\obj\Debug\net9.0\rpswa.dswa.cache.json
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\obj\Debug\net9.0\DescartablesApp.API.GeneratedMSBuildEditorConfig.editorconfig
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\obj\Debug\net9.0\DescartablesApp.API.AssemblyInfoInputs.cache
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\obj\Debug\net9.0\DescartablesApp.API.AssemblyInfo.cs
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\obj\Debug\net9.0\DescartablesApp.API.csproj.CoreCompileInputs.cache
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\obj\Debug\net9.0\DescartablesApp.API.MvcApplicationPartsAssemblyInfo.cs
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\obj\Debug\net9.0\DescartablesApp.API.MvcApplicationPartsAssemblyInfo.cache
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\obj\Debug\net9.0\rjimswa.dswa.cache.json
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\obj\Debug\net9.0\scopedcss\bundle\DescartablesApp.API.styles.css
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\obj\Debug\net9.0\staticwebassets.build.json
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\obj\Debug\net9.0\staticwebassets.build.json.cache
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\obj\Debug\net9.0\staticwebassets.development.json
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\obj\Debug\net9.0\Descarta.23D309FF.Up2Date
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\obj\Debug\net9.0\DescartablesApp.API.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\obj\Debug\net9.0\refint\DescartablesApp.API.dll
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\obj\Debug\net9.0\DescartablesApp.API.pdb
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\obj\Debug\net9.0\DescartablesApp.API.genruntimeconfig.cache
+F:\Proyectos desarrollo\DescartablesApp\DescartablesApp.API\obj\Debug\net9.0\ref\DescartablesApp.API.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\appsettings.json
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\DescartablesApp.API.staticwebassets.endpoints.json
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\DescartablesApp.API.exe
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\DescartablesApp.API.deps.json
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\DescartablesApp.API.runtimeconfig.json
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\DescartablesApp.API.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\DescartablesApp.API.pdb
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\Humanizer.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\DescartablesApp.Shared.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\bin\Debug\net9.0\DescartablesApp.Shared.pdb
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\obj\Debug\net9.0\DescartablesApp.API.csproj.AssemblyReference.cache
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\obj\Debug\net9.0\DescartablesApp.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\obj\Debug\net9.0\DescartablesApp.API.AssemblyInfoInputs.cache
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\obj\Debug\net9.0\DescartablesApp.API.AssemblyInfo.cs
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\obj\Debug\net9.0\DescartablesApp.API.csproj.CoreCompileInputs.cache
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\obj\Debug\net9.0\DescartablesApp.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\obj\Debug\net9.0\DescartablesApp.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\obj\Debug\net9.0\scopedcss\bundle\DescartablesApp.API.styles.css
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\obj\Debug\net9.0\Descarta.23D309FF.Up2Date
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\obj\Debug\net9.0\DescartablesApp.API.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\obj\Debug\net9.0\refint\DescartablesApp.API.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\obj\Debug\net9.0\DescartablesApp.API.pdb
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\obj\Debug\net9.0\DescartablesApp.API.genruntimeconfig.cache
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.API\obj\Debug\net9.0\ref\DescartablesApp.API.dll
