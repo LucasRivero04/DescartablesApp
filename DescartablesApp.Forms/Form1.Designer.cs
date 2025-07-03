@@ -39,7 +39,7 @@
             btnAbrirFormProductos.BackColor = Color.Black;
             btnAbrirFormProductos.Font = new Font("Segoe UI Black", 11.25F, FontStyle.Bold);
             btnAbrirFormProductos.ForeColor = Color.Gray;
-            btnAbrirFormProductos.Location = new Point(101, 132);
+            btnAbrirFormProductos.Location = new Point(92, 183);
             btnAbrirFormProductos.Name = "btnAbrirFormProductos";
             btnAbrirFormProductos.Size = new Size(143, 46);
             btnAbrirFormProductos.TabIndex = 0;
@@ -52,7 +52,7 @@
             btnAbrirVentas.BackColor = Color.Black;
             btnAbrirVentas.Font = new Font("Segoe UI Black", 11.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btnAbrirVentas.ForeColor = Color.Gray;
-            btnAbrirVentas.Location = new Point(539, 132);
+            btnAbrirVentas.Location = new Point(565, 183);
             btnAbrirVentas.Name = "btnAbrirVentas";
             btnAbrirVentas.Size = new Size(143, 46);
             btnAbrirVentas.TabIndex = 1;
@@ -65,7 +65,7 @@
             btnDetalleVenta.BackColor = Color.Black;
             btnDetalleVenta.Font = new Font("Segoe UI Black", 11.25F, FontStyle.Bold);
             btnDetalleVenta.ForeColor = Color.Gray;
-            btnDetalleVenta.Location = new Point(319, 132);
+            btnDetalleVenta.Location = new Point(314, 183);
             btnDetalleVenta.Name = "btnDetalleVenta";
             btnDetalleVenta.Size = new Size(163, 46);
             btnDetalleVenta.TabIndex = 2;

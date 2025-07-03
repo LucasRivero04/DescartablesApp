@@ -106,3 +106,5 @@ C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Forms\obj\Debug
 C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Forms\obj\Debug\net9.0-windows\DescartablesApp.Forms.pdb
 C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Forms\obj\Debug\net9.0-windows\DescartablesApp.Forms.genruntimeconfig.cache
 C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Forms\obj\Debug\net9.0-windows\ref\DescartablesApp.Forms.dll
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Forms\obj\Debug\net9.0-windows\DescartablesApp.Forms.Properties.Resources.resources
+C:\Users\tuka\Desktop\SistemaDescartables-master\DescartablesApp.Forms\obj\Debug\net9.0-windows\DescartablesApp.Forms.sourcelink.json

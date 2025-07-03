@@ -29,18 +29,19 @@
         private void InitializeComponent()
         {
             groupBox1 = new GroupBox();
+            btnMostrarTodo = new Button();
             btnVerDetalle = new Button();
             btnBuscarVentaPorId = new Button();
             label1 = new Label();
             txtIdVenta = new TextBox();
             dgvVentas = new DataGridView();
-            btnMostrarTodo = new Button();
             groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)dgvVentas).BeginInit();
             SuspendLayout();
             // 
             // groupBox1
             // 
+            groupBox1.BackColor = SystemColors.ButtonHighlight;
             groupBox1.Controls.Add(btnMostrarTodo);
             groupBox1.Controls.Add(btnVerDetalle);
             groupBox1.Controls.Add(btnBuscarVentaPorId);
@@ -53,6 +54,16 @@
             groupBox1.TabIndex = 1;
             groupBox1.TabStop = false;
             groupBox1.Text = "Detalles de ventas";
+            // 
+            // btnMostrarTodo
+            // 
+            btnMostrarTodo.Location = new Point(220, 79);
+            btnMostrarTodo.Name = "btnMostrarTodo";
+            btnMostrarTodo.Size = new Size(161, 36);
+            btnMostrarTodo.TabIndex = 11;
+            btnMostrarTodo.Text = "Mostrar todo";
+            btnMostrarTodo.UseVisualStyleBackColor = true;
+            btnMostrarTodo.Click += btnMostrarTodo_Click;
             // 
             // btnVerDetalle
             // 
@@ -100,16 +111,6 @@
             dgvVentas.ReadOnly = true;
             dgvVentas.Size = new Size(709, 273);
             dgvVentas.TabIndex = 0;
-            // 
-            // btnMostrarTodo
-            // 
-            btnMostrarTodo.Location = new Point(220, 79);
-            btnMostrarTodo.Name = "btnMostrarTodo";
-            btnMostrarTodo.Size = new Size(161, 36);
-            btnMostrarTodo.TabIndex = 11;
-            btnMostrarTodo.Text = "Mostrar todo";
-            btnMostrarTodo.UseVisualStyleBackColor = true;
-            btnMostrarTodo.Click += btnMostrarTodo_Click;
             // 
             // FormDetalleVenta
             // 
