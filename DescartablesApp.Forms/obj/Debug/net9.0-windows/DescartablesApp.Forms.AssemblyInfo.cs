@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DescartablesApp.Forms")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e97f5f39779a4e88b2ed875c5f53d297670c24e")]
 [assembly: System.Reflection.AssemblyProductAttribute("DescartablesApp.Forms")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DescartablesApp.Forms")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
