@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DescartablesApp.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa2f7226c9ef02b15c85a746ef57b50a919594c3")]
 [assembly: System.Reflection.AssemblyProductAttribute("DescartablesApp.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DescartablesApp.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
